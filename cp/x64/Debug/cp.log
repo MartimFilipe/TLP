@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(16,8): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(24,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(31,9): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(39,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(45,9): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(53,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(59,9): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Utilizador\source\repos\cp\FileName.cpp(67,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  cp.vcxproj -> C:\Users\Utilizador\source\repos\cp\x64\Debug\cp.exe
