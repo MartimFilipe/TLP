@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(5,9): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(5,8): error C2146: erro de sintaxe: ';' ausente antes do identificador 'n'
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(12,10): error C2065: 'n': identificador não declarado
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(13,16): error C2065: 'n': identificador não declarado
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(13,21): error C2065: 'n': identificador não declarado
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(15,14): error C2065: 'n': identificador não declarado
+C:\Users\Utilizador\source\repos\QUIMICa\FileName.cpp(17,11): error C2065: 'n': identificador não declarado
