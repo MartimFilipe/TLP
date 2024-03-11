@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Utilizador\source\repos\funções 2\FileName.cpp(23,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  funções 2.vcxproj -> C:\Users\Utilizador\source\repos\funções 2\x64\Debug\funções 2.exe
